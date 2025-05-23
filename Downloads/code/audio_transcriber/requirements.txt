@@ -1,0 +1,8 @@
+requests>=2.31.0
+sounddevice>=0.4.6
+pydub>=0.25.1
+tqdm>=4.65.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+PyQt6>=6.6.0
+soundfile>=0.12.1 
